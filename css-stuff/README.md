@@ -30,4 +30,5 @@ CodingNepal: [Text Glitch Effect in HTML & CSS](https://www.codingnepalweb.com/2
 TODO:
 
 https://tympanus.net/codrops/2017/12/21/css-glitch-effect/
+
 https://github.com/codrops/CSSGlitchEffect/
