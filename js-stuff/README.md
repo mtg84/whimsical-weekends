@@ -12,6 +12,24 @@ Web Cifar: [On Hover Background Change With HTML, CSS & JS | Modern Hero Section
 
 <hr>
 
-TODO:
 
-https://www.youtube.com/watch?v=Rumf96j0cR0
+
+07/03/2021
+
+# challenges:
+## 01: prototype vs class
+## 02: class
+## 03: array.filter()
+## 04: extend class
+## 05: symbol
+Emma Bostian: [Linkedin Challenges JS](https://www.linkedin.com/learning/code-challenges-javascript)
+
+<hr>
+
+# bettermoreless
+CSS Tricks: [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
+CodePEn: [Expand/Collapse CSS Transition](https://codepen.io/mbxtr/pen/pCfcy?js-preprocessor=none)
+
+<hr>
+
+TODO:https://www.youtube.com/watch?v=Rumf96j0cR0
