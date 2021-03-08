@@ -28,7 +28,7 @@ Emma Bostian: [Linkedin Challenges JS](https://www.linkedin.com/learning/code-ch
 
 # bettermoreless
 CSS Tricks: [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
-CodePEn: [Expand/Collapse CSS Transition](https://codepen.io/mbxtr/pen/pCfcy?js-preprocessor=none)
+CodePEn: [Expand/Collapse CSS Transition](https://codepen.io/mbxtr/pen/pCfcy?js-preprocessor=none) (with jquery)
 
 <hr>
 
