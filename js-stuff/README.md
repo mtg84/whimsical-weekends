@@ -22,6 +22,7 @@ Web Cifar: [On Hover Background Change With HTML, CSS & JS | Modern Hero Section
 ## 03: array.filter()
 ## 04: extend class
 ## 05: symbol
+## 06: callbacks
 Emma Bostian: [Linkedin Challenges JS](https://www.linkedin.com/learning/code-challenges-javascript)
 
 <hr>
